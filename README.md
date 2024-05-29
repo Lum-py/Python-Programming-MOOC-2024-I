@@ -2,6 +2,7 @@
 
 ## Introduction to Programming
 
+
 ### Part 1
 - Getting started
 - Information from the user
