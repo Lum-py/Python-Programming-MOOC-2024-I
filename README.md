@@ -1,6 +1,6 @@
 # Python Programming MOOC 2024
 
-## Introduction to Programming
+## Introduction to Programming Course Outline
 
 
 ### Part 1
